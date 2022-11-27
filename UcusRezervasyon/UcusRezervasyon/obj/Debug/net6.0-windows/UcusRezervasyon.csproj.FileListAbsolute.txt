@@ -1,0 +1,17 @@
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\UcusRezervasyon\UcusRezervasyon\bin\Debug\net6.0-windows\UcusRezervasyon.exe
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\UcusRezervasyon\UcusRezervasyon\bin\Debug\net6.0-windows\UcusRezervasyon.deps.json
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\UcusRezervasyon\UcusRezervasyon\bin\Debug\net6.0-windows\UcusRezervasyon.runtimeconfig.json
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\UcusRezervasyon\UcusRezervasyon\bin\Debug\net6.0-windows\UcusRezervasyon.dll
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\UcusRezervasyon\UcusRezervasyon\bin\Debug\net6.0-windows\UcusRezervasyon.pdb
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\UcusRezervasyon\UcusRezervasyon\obj\Debug\net6.0-windows\UcusRezervasyon.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\UcusRezervasyon\UcusRezervasyon\obj\Debug\net6.0-windows\UcusRezervasyon.Form1.resources
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\UcusRezervasyon\UcusRezervasyon\obj\Debug\net6.0-windows\UcusRezervasyon.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\UcusRezervasyon\UcusRezervasyon\obj\Debug\net6.0-windows\UcusRezervasyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\UcusRezervasyon\UcusRezervasyon\obj\Debug\net6.0-windows\UcusRezervasyon.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\UcusRezervasyon\UcusRezervasyon\obj\Debug\net6.0-windows\UcusRezervasyon.AssemblyInfo.cs
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\UcusRezervasyon\UcusRezervasyon\obj\Debug\net6.0-windows\UcusRezervasyon.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\UcusRezervasyon\UcusRezervasyon\obj\Debug\net6.0-windows\UcusRezervasyon.dll
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\UcusRezervasyon\UcusRezervasyon\obj\Debug\net6.0-windows\refint\UcusRezervasyon.dll
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\UcusRezervasyon\UcusRezervasyon\obj\Debug\net6.0-windows\UcusRezervasyon.pdb
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\UcusRezervasyon\UcusRezervasyon\obj\Debug\net6.0-windows\UcusRezervasyon.genruntimeconfig.cache
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\UcusRezervasyon\UcusRezervasyon\obj\Debug\net6.0-windows\ref\UcusRezervasyon.dll

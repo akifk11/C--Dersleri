@@ -1,0 +1,11 @@
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Combobox\Combobox\bin\Debug\Combobox.exe.config
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Combobox\Combobox\bin\Debug\Combobox.exe
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Combobox\Combobox\bin\Debug\Combobox.pdb
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Combobox\Combobox\obj\Debug\Combobox.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Combobox\Combobox\obj\Debug\Combobox.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Combobox\Combobox\obj\Debug\Combobox.Form1.resources
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Combobox\Combobox\obj\Debug\Combobox.Properties.Resources.resources
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Combobox\Combobox\obj\Debug\Combobox.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Combobox\Combobox\obj\Debug\Combobox.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Combobox\Combobox\obj\Debug\Combobox.exe
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Combobox\Combobox\obj\Debug\Combobox.pdb

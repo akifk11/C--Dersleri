@@ -1,0 +1,17 @@
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Checkbox\Checkbox\bin\Debug\net6.0-windows\Checkbox.exe
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Checkbox\Checkbox\bin\Debug\net6.0-windows\Checkbox.deps.json
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Checkbox\Checkbox\bin\Debug\net6.0-windows\Checkbox.runtimeconfig.json
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Checkbox\Checkbox\bin\Debug\net6.0-windows\Checkbox.dll
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Checkbox\Checkbox\bin\Debug\net6.0-windows\Checkbox.pdb
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Checkbox\Checkbox\obj\Debug\net6.0-windows\Checkbox.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Checkbox\Checkbox\obj\Debug\net6.0-windows\Checkbox.Form1.resources
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Checkbox\Checkbox\obj\Debug\net6.0-windows\Checkbox.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Checkbox\Checkbox\obj\Debug\net6.0-windows\Checkbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Checkbox\Checkbox\obj\Debug\net6.0-windows\Checkbox.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Checkbox\Checkbox\obj\Debug\net6.0-windows\Checkbox.AssemblyInfo.cs
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Checkbox\Checkbox\obj\Debug\net6.0-windows\Checkbox.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Checkbox\Checkbox\obj\Debug\net6.0-windows\Checkbox.dll
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Checkbox\Checkbox\obj\Debug\net6.0-windows\refint\Checkbox.dll
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Checkbox\Checkbox\obj\Debug\net6.0-windows\Checkbox.pdb
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Checkbox\Checkbox\obj\Debug\net6.0-windows\Checkbox.genruntimeconfig.cache
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Checkbox\Checkbox\obj\Debug\net6.0-windows\ref\Checkbox.dll

@@ -1,0 +1,17 @@
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Degiskenler_string\Degiskenler_string\bin\Debug\net6.0-windows\Degiskenler_string.exe
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Degiskenler_string\Degiskenler_string\bin\Debug\net6.0-windows\Degiskenler_string.deps.json
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Degiskenler_string\Degiskenler_string\bin\Debug\net6.0-windows\Degiskenler_string.runtimeconfig.json
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Degiskenler_string\Degiskenler_string\bin\Debug\net6.0-windows\Degiskenler_string.dll
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Degiskenler_string\Degiskenler_string\bin\Debug\net6.0-windows\Degiskenler_string.pdb
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Degiskenler_string\Degiskenler_string\obj\Debug\net6.0-windows\Degiskenler_string.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Degiskenler_string\Degiskenler_string\obj\Debug\net6.0-windows\Degiskenler_string.Form1.resources
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Degiskenler_string\Degiskenler_string\obj\Debug\net6.0-windows\Degiskenler_string.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Degiskenler_string\Degiskenler_string\obj\Debug\net6.0-windows\Degiskenler_string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Degiskenler_string\Degiskenler_string\obj\Debug\net6.0-windows\Degiskenler_string.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Degiskenler_string\Degiskenler_string\obj\Debug\net6.0-windows\Degiskenler_string.AssemblyInfo.cs
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Degiskenler_string\Degiskenler_string\obj\Debug\net6.0-windows\Degiskenler_string.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Degiskenler_string\Degiskenler_string\obj\Debug\net6.0-windows\Degiskenler_string.dll
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Degiskenler_string\Degiskenler_string\obj\Debug\net6.0-windows\refint\Degiskenler_string.dll
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Degiskenler_string\Degiskenler_string\obj\Debug\net6.0-windows\Degiskenler_string.pdb
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Degiskenler_string\Degiskenler_string\obj\Debug\net6.0-windows\Degiskenler_string.genruntimeconfig.cache
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Degiskenler_string\Degiskenler_string\obj\Debug\net6.0-windows\ref\Degiskenler_string.dll

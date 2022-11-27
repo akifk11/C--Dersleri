@@ -1,0 +1,17 @@
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Degiskenler_int\Degiskenler_int\bin\Debug\net6.0-windows\Degiskenler_int.exe
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Degiskenler_int\Degiskenler_int\bin\Debug\net6.0-windows\Degiskenler_int.deps.json
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Degiskenler_int\Degiskenler_int\bin\Debug\net6.0-windows\Degiskenler_int.runtimeconfig.json
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Degiskenler_int\Degiskenler_int\bin\Debug\net6.0-windows\Degiskenler_int.dll
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Degiskenler_int\Degiskenler_int\bin\Debug\net6.0-windows\Degiskenler_int.pdb
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Degiskenler_int\Degiskenler_int\obj\Debug\net6.0-windows\Degiskenler_int.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Degiskenler_int\Degiskenler_int\obj\Debug\net6.0-windows\Degiskenler_int.Form1.resources
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Degiskenler_int\Degiskenler_int\obj\Debug\net6.0-windows\Degiskenler_int.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Degiskenler_int\Degiskenler_int\obj\Debug\net6.0-windows\Degiskenler_int.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Degiskenler_int\Degiskenler_int\obj\Debug\net6.0-windows\Degiskenler_int.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Degiskenler_int\Degiskenler_int\obj\Debug\net6.0-windows\Degiskenler_int.AssemblyInfo.cs
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Degiskenler_int\Degiskenler_int\obj\Debug\net6.0-windows\Degiskenler_int.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Degiskenler_int\Degiskenler_int\obj\Debug\net6.0-windows\Degiskenler_int.dll
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Degiskenler_int\Degiskenler_int\obj\Debug\net6.0-windows\refint\Degiskenler_int.dll
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Degiskenler_int\Degiskenler_int\obj\Debug\net6.0-windows\Degiskenler_int.pdb
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Degiskenler_int\Degiskenler_int\obj\Debug\net6.0-windows\Degiskenler_int.genruntimeconfig.cache
+C:\Users\Hp\Desktop\GitHub\C--Dersleri\Degiskenler_int\Degiskenler_int\obj\Debug\net6.0-windows\ref\Degiskenler_int.dll
